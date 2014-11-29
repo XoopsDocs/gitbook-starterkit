@@ -1,4 +1,1 @@
-module_tutorial_starterkit_gitbook
-==================================
-
-Predefined set of files for creating a GitHub/Gitbook project for XOOPS Module Tutorial
+Starterkit for writing a Tutorial for a XOOPS Module, using GitHub and Gitbook as publishing/versioning platform
