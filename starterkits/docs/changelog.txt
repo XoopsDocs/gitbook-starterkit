@@ -1,0 +1,6 @@
+=================================
+2014-11-19 Version 1.0
+=================================
+
+- created a starterkit for writing a tutorial for XOOPS module, using 
+  Gitbook/GitHub as a publishing platform (mamba)
