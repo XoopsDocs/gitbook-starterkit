@@ -4,3 +4,5 @@
 
 - created a starterkit for writing a tutorial for XOOPS module, using 
   Gitbook/GitHub as a publishing platform (mamba)
+
+- added book sample based on Gitbook Starter Kit by Maksim Pecherskiy (MrMaksimize): https://github.com/MrMaksimize/gitbook-starter-kit
